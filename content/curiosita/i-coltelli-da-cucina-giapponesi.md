@@ -1,0 +1,36 @@
+---
+title: "I coltelli da cucina giapponesi"
+date: 2016-09-02T15:04:07+01:00
+draft: false
+---
+I coltelli da cucina giapponesi hanno una storia che può essere ragionevolmente legata alla storia della lavorazione di un oggetto tagliente molto più nobile e prestigioso: la katana, la spada giapponese dei samurai. La maestria dei fabbri giapponesi è effettivamente qualcosa che affonda le sue radici nel profondo medioevo giapponese, in quell’epoca definita Sengoku-jidai (letteralmente “epoca degli stati in guerra”) in cui le costanti e perenni guerre tra signori feudali portarono i fabbri che li armavano a forgiare spade affilate come rasoi, le famose katana, sviluppando tecniche metallurgiche sempre più raffinate.
+
+Certo, tra una katana e un coltello da cucina c’è una bella differenza, ma non poco della lunga tradizione metallurgica dei mastri fabbri di katana rientra oggi nella realizzazione di coltelli giapponesi di qualità; si impiegano infatti  tecniche di forgiatura utilizzate per le spade tradizionali, come ad esempio le combinazioni di tipi di acciaio e tempre diverse sulla medesima lama, così da avere maggiore o minore flessibilità e durezza a seconda dei punti del coltello.
+
+Negli ultimi anni, anche per il diffondersi della passione per la cucina giapponese dalle nostre parti, sushi in primis, nei negozi di casalinghi, nei supermercati, nelle coltellerie, si incominciano a vedere in vendita coltelli da cucina giapponesi. Tuttavia, nella migliore delle ipotesi, si tratta di coltelli realizzati industrialmente in Europa o negli Stati Uniti secondo i canoni estetici di quelli giapponesi. Per i veri appassionati di cucina in generale, e di cucina giapponese in particolare, ci sono un paio di cose che sarebbe bene sapere sui coltelli giapponesi.
+
+Innanzitutto l'acciao che compone il coltello: Sul mercato ci sono diversi tipi di acciaio che in base alla destinazione d'uso variano nella loro composizione chimica. Mentre per le pentole, per esempio, è molto gradito un metallo ad alta inossidabilità per i coltelli si è alla continua ricerca di un equilibrio che venga incontro alle esigenze dei consumatori, perché al variare della quantità di cromo o di carbonio impiegati nella forgiatura del metallo cambiano l'affilabilità del prodotto finale e la sua inossidabilità. La tradizione occidentale e quella giapponese trovano la loro prima grande differenziazione proprio su questo tema dove, da un lato, in occidente, viene prediletta l'inossidabilità a danno dell'affilabilità del prodotto mentre dall'altro si tende a prediligere lame con prestazioni più elevate ma che richiedono una maggiore cura nella loro conservazione.
+
+Un altro parametro da considerarsi è la durezza dell'acciaio. Questa è misurabile utilizzando il test di Rockwell ed è espressa in HRC. Un buon coltello occidentale utilizza acciai con una durezza che va da 54 a 60 HRC mentre un buon coltello giapponese ha una durezza che va da 60 a 65 HRC e oltre.
+
+Quindi i coltelli giapponesi hanno un acciaio piú duro, ma cosa implica questo?
+Tanto piú un acciaio è duro e tanto piú è possibile affilarlo. Quindi un acciaio duro permette di ottenere un coltello più affilato e che manterrà questa caratteristica più a lungo nel tempo.  Se si vuol tenere affilato un coltello a basso HRC occorre affilarlo spesso, praticamente ogni mese, anche se lo si usa per le normali attività di cucina.
+
+Non ci sono però solo vantaggi, un acciaio con elevato HRC è per sua natura fragile e può facilmente incrinarsi o spezzarsi. Detto in altri termini, un coltello prodotto con acciaio ad elevato HRC tende a scheggiarsi mentre un acciaio con basso HRC tenderà a smussarsi.
+
+Per evitare l’inconveniente, le lame dei coltelli giapponesi sono costituite da diverse lamine di acciaio. L’anima è formata da acciaio molto duro, che viene però “racchiuso” su entrambi i lati da acciaio molto più tenero. In questo modo è possibile realizzare lame molto affiliate, dure e resistenti allo stesso tempo.
+
+Gli elementi che permettono ad un coltello da cucina di essere apprezzato sono tre: il grado di affilatura, la leggerezza e la tenuta del filo nel tempo. Rispetto a questi tre parametri i coltelli giapponesi hanno i migliori risultati. Questo fatto dipende in maniera marginale dall'alto contenuto di carbonio, anche se è una qualità importante, ma molto più importante è il processo di forgiatura della lama. La tecnica di produzione consiste in pratica nel ripiegare ripetutamente l’acciaio impiegato per le lame: l’acciaio per i coltelli giapponesi viene ripiegato, ritorto e battuto, così che sulla lama si formano venature e minuscoli disegni. Il risultato soddisfa sia le esigenze puramente funzionali che il lato estetico.
+
+Quindi cosa contraddistingue esattamente i coltelli giapponesi? È soltanto la produzione, che vanta una tradizione centenaria? È la lunga lavorazione manuale con cui vengono fabbricati? O il materiale impiegato? La risposta può essere solo una: la combinazione di tutti questi fattori.
+
+Ma vediamo un po’ alle principali tipologie di coltelli che si possono trovare in un negozio di lame in Giappone. Ne esistono varietà pressoché infinite, uno di forma apposita, stabilita e codificata in secoli di utilizzo, per ogni attività umana, non solo la cucina. Vi sono coltelli da carne, pesce, verdure, per tagliare le castagne o per spellare le anguille, per squartare o sfilettare pesci grandi o pesci piccoli, ostriche, e chi più ne ha più ne metta.
+
+Deba Bocho: Per la particolare forma è il più classico tra i coltelli da cucina giapponesi, il più stereotipato. La caratteristica principale è quella di avere una lama molto spessa e pesante a sezione asimmetrica: da una parte, una delle “guance” è bombata, dall’altra è piatta. Questo, assieme alla lama che per la particolare forma viene ad essere piuttosto distanziata dall’impugnatura, serve proprio a facilitare il taglio del pesce o della carne in filetti o fettine. Il deba bocho non è ambidestro, la forma asimmetrica fa sì che i mancini debbano acquistarne uno fatto apposta per loro.
+
+Coltelli da sashimi (yanagiba e takohiki): Anche questi coltelli hanno la tipica forma che li rende immediatamente riconoscibili ai più come “coltelli giapponesi” anche se meno del più tipico deba. Sono caratterizzati da una lama lunga e affusolata, questo perché la fettina di pesce per sushi e sashimi andrebbe tagliata con un unico movimento della lama, non facendo avanti e indietro come si farebbe per tagliare una fetta di pane. In questo modo non si sfibra la consistenza del pesce. Per far ciò una lama lunga è essenziale, ed è essenziale anche che sia poco spessa così da causare meno attrito possibile tra la carne e l’acciaio.
+
+Na-kiri: Anche il na-kiri è abbastanza esotico nelle fattezze anche se meno nobile ed elegante. La forma è piuttosto tozza e squadrata. Il suo uso è difatti più popolare occupandosi principalmente del taglio della verdura.
+
+Santoku: Altro coltello fondamentale è il Santoku. Il termine significa letteralmente “le tre virtù”. È il coltello tuttofare, che può essere usato benissimo per tagliare carne, pesce e verdure. Le tre virtù appunto. Il santoku tende ad essere più affilato del deba bocho ma ha anche la lama più sottile. È probabilmente il coltello più versatile tra tutti.
+
