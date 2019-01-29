@@ -8,7 +8,7 @@ home = [ "HTML", "RSS", "REDIR" ]
 
 [mediaTypes]
 [mediaTypes."text/netlify"]
-suffix = "redir"
+suffixes = ["redir"]
 
 [outputFormats]
 [outputFormats.REDIR]
