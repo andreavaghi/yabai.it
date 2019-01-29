@@ -1,4 +1,18 @@
-baseURL = "https://dreamy-benz-5a963a.netlify.com/"
+baseURL = "https://www.yabai.com/"
 languageCode = "en-us"
 title = "Yabai"
 theme = "beautifulhugo"
+
+[outputs]
+home = [ "HTML", "RSS", "REDIR" ]
+
+[mediaTypes]
+[mediaTypes."text/netlify"]
+suffixes = ["redir"]
+
+[outputFormats]
+[outputFormats.REDIR]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
