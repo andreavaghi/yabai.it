@@ -4,12 +4,11 @@ title = "Yabai"
 theme = "beautifulhugo"
 
 [outputs]
-home = [ "HTML", "RSS", "REDIR", "HEADERS" ]
+home = [ "HTML", "RSS", "REDIR" ]
 
 [mediaTypes]
 [mediaTypes."text/netlify"]
-suffix = ""
-delimiter = ""
+suffix = "redir"
 
 [outputFormats]
 [outputFormats.REDIR]
